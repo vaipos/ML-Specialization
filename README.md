@@ -7,7 +7,7 @@
   
 ## Quick Table of Contents (thus far)
   1. Linear Regression
-        - Univariant with Gradient Descent ( y = mx + b )
+        - Univariate with Gradient Descent ( y = mx + b )
         - Multiple Variable with Gradient Descent ( y = m**x**[] + b )
   2. Clustering
         - K-means 
