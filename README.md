@@ -6,9 +6,10 @@
   Each python file will be coated in comments - comments may vary from descriptive to comedic - nonetheless, they will be informative on debugging struggles and newly learned concepts. Each file will hold these requirements with integrity. Also, it goes without saying that there will be csv data files provided
   
 ## Quick Table of Contents (thus far)
-  1. Linear Regression
+  1. Regression
         - Univariate with Gradient Descent ( y = mx + b )
         - Multiple Variable with Gradient Descent ( y = m**x**[] + b )
+        - Non-Linear projects
   2. Clustering
         - K-means 
   ... to be extended
