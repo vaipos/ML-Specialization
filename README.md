@@ -10,7 +10,7 @@
         - Univariate with Gradient Descent ( y = mx + b )
         - Multiple Variable with Gradient Descent ( y = m**x**[] + b )
         - Non-Linear projects
-  2. Clustering
-        - K-means 
+  2. Classification
+        - Logistical Regression (1/(1+e^-z)) 
   ... to be extended
   
