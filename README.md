@@ -6,11 +6,12 @@
   Each Python file will be coated in comments - comments may vary from descriptive to comedic - nonetheless, they will be informative on debugging struggles and newly learned concepts. Each file will hold these requirements with integrity. Also, it goes without saying that there will be CSV data files provided
   
 ## Quick Table of Contents (thus far)
-  1. Regression
+  1. Regression ... everything from scratch 
         - Univariate with Gradient Descent ( y = mx + b )
         - Multiple Variable with Gradient Descent ( y = m**x**[] + b )
-        - Non-Linear projects
-  2. Classification
-        - Logistic Regression (1/(1+e^-z)) 
+        - Non-Linear multi-variable projects
+  2. Classification 
+        - Logistic Regression (1/(1+e^-z)) ... scratch
+        - Neural Network Binary Classification ... tensorflow
   ... to be extended
   
