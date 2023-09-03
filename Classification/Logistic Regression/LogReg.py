@@ -54,12 +54,5 @@ print(str(cost[epochs-1]))
 plt.scatter(purchased_yes['Age'], purchased_yes['EstimatedSalary'], c='green', label='Purchased: Yes')
 plt.scatter(purchased_no['Age'], purchased_no['EstimatedSalary'], c='red', label='Purchased: No')
 
-#plt.title(str(x_df.columns[i]))
 plt.ylabel("Purchased")
 
-#plt.figure(n+1)
-# Create a scatter plot for each group with different colors
-#plt.scatter(purchased_yes['Age'], purchased_yes['EstimatedSalary'], c='green', label='Purchased: Yes')
-#plt.scatter(purchased_no['Age'], purchased_no['EstimatedSalary'], c='red', label='Purchased: No')
-#plt.plot(iteration,cost)
-print("The accuracy of the model: " )
